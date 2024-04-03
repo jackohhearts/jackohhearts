@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackohhearts&label=Profile%20views&color=0e75b6&style=flat" alt="jackohhearts" /> </p>
 
-- 🔭 I’m currently working on: [Rock, Paper, Scissors](https://github.com/jackohhearts/Rock-Paper-Scissors)
+- 🔭 I’m currently working on: [A Lead Saving Chrome Extension](https://github.com/jackohhearts/Leads-Chrome-Extension)
 
 - 🌱 I’m currently learning: **JavaScript**
 
