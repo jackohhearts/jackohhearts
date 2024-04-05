@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackohhearts&label=Profile%20views&color=0e75b6&style=flat" alt="jackohhearts" /> </p>
 
-- 🔭 I’m currently working on: [an Etch-A-Sketch!]([https://github.com/jackohhearts/Etch-A-Sketch)
+- 🔭 I’m currently working on: [an Etch-A-Sketch!](https://github.com/jackohhearts/Etch-A-Sketch)
 
 - 🌱 I’m currently learning: **JavaScript**
 
